@@ -1,0 +1,29 @@
+---- {
+    background-color: black;
+}
+--- {
+    background-color: white;
+}
+-- {
+    color: rebeccapurple;
+}
+
+h1 {                          /*Type selector*/
+    color: rgb(241, 16, 166);
+    font-family: roboto; 
+    text-align: center;
+   }
+dt{
+    color:rgb(17, 161, 245);
+}
+.h3{                          /*Class selector*/
+    font-size:23px !important ;
+    color:black;
+    text-align: center;
+}
+#identified1 {                /*id selector*/
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIpxm3i0iOxLhPvhfRiFZQFHFDNX7jYXVsbV5uxNIu&s");
+    background-repeat: no-repeat;
+    background-position: right;
+    space-around: 50px 10px 
+}
